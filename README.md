@@ -251,6 +251,6 @@ The complete coursework report, including model evaluation results, confusion ma
 This project was developed collaboratively by:
 
 * **[@SMousavi7](https://github.com/SMousavi7)**
-* **[@TEAMMATE_GITHUB_USERNAME](https://github.com/TEAMMATE_GITHUB_USERNAME)**
+* **[@MilladAnsari](https://github.com/MilladAnsari)**
 
 Developed as part of the **Internet of Things** course project, focusing on AIoT, TinyML, and Edge AI inference.
